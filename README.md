@@ -1,5 +1,9 @@
 # BAM-DETR
 ### Official Pytorch Implementation of 'BAM-DETR: Boundary-Aligned Moment Detection Transformer for Temporal Sentence Grounding in Videos'
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bam-detr-boundary-aligned-moment-detection/moment-retrieval-on-qvhighlights)](https://paperswithcode.com/sota/moment-retrieval-on-qvhighlights?p=bam-detr-boundary-aligned-moment-detection)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bam-detr-boundary-aligned-moment-detection/moment-retrieval-on-charades-sta)](https://paperswithcode.com/sota/moment-retrieval-on-charades-sta?p=bam-detr-boundary-aligned-moment-detection)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bam-detr-boundary-aligned-moment-detection/natural-language-moment-retrieval-on-tacos)](https://paperswithcode.com/sota/natural-language-moment-retrieval-on-tacos?p=bam-detr-boundary-aligned-moment-detection)
+
 
 ![architecture](https://github.com/Pilhyeon/Learning-Action-Completeness-from-Points/assets/16102333/774267a6-8a65-4a7b-bc60-c832d9e5c745)
 
